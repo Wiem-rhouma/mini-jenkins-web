@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/TON_USERNAME/mini-jenkins-web.git'
+                git 'https://github.com/Wiem-rhouma/mini-jenkins-web.git'
             }
         }
 
